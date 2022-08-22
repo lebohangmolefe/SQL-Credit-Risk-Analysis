@@ -12,6 +12,3 @@ Queries will be created to answer the following questions:
 
 The [SQL Analysis](https://github.com/lebohangmolefe/SQL-Credit-Risk-Analysis/blob/main/SQL_Credit_Risk_Analysis.pdf),[SQL Queries](https://github.com/lebohangmolefe/SQL-Credit-Risk-Analysis/blob/main/SQL_Queries.pdf) and the [ProcSQL Outputs](https://github.com/lebohangmolefe/SQL-Credit-Risk-Analysis/blob/main/ProcSQL_Output.pdf) can be obtained in the main file folders.
 
-[SQL Analysis](https://github.com/lebohangmolefe/SQL-Credit-Risk-Analysis/blob/main/SQL_Credit_Risk_Analysis.pdf)
-[SQL Queries](https://github.com/lebohangmolefe/SQL-Credit-Risk-Analysis/blob/main/SQL_Queries.pdf)
-[ProcSQL Outputs](https://github.com/lebohangmolefe/SQL-Credit-Risk-Analysis/blob/main/ProcSQL_Output.pdf)
