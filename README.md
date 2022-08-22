@@ -11,3 +11,7 @@ Queries will be created to answer the following questions:
         5.	What is the average loan amount for age groups with 30% or below utilisation?
 
 All analysis, outputs and SQL Queries can be obtained in the main file folders.
+
+Links:
+
+        SQL Analysis: https://github.com/lebohangmolefe/SQL-Credit-Risk-Analysis/blob/main/SQL_Credit_Risk_Analysis.pdf
