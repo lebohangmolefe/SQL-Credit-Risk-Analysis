@@ -12,6 +12,4 @@ Queries will be created to answer the following questions:
 
 All analysis, outputs and SQL Queries can be obtained in the main file folders.
 
-Links:
-
-        [SQL Analysis:](https://www.youtube.com/)
+[SQL Analysis:](https://www.youtube.com/)
